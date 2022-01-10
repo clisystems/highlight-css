@@ -1,5 +1,4 @@
 # highlight-css
-Highlight CSS library
 A simple CSS library for highlighting elements without affecting spacing.  Useful for debugging and UI development
 
 ## Need
