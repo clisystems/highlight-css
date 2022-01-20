@@ -11,7 +11,6 @@ Include the highlight.css to your page:
 
 ```html
 <head>
-<!-- other stuff -->
 <link rel="stylesheet" href="highlight.css">
 </head>
 ```
