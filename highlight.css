@@ -23,6 +23,7 @@
 * OTHER DEALINGS IN THE SOFTWARE.
 ********************************************************************/
 
+.HL-none{outline:0px;outline-offset: 0px;}
 .HL-red{outline:1px solid #ff0000;outline-offset: -1px;}
 .HL-green{outline:1px solid #00ff00;outline-offset: -1px;}
 .HL-blue{outline:1px solid #0000ff;outline-offset: -1px;}
@@ -33,6 +34,7 @@
 .HL-purple{outline:1px solid #8f0afc;outline-offset: -1px;}
 .HL-orange{outline:1px solid #fc970a;outline-offset: -1px;}
 
+.HL-none-2{outline:0px;outline-offset: 0px;}
 .HL-red-2{outline:2px solid #ff0000;outline-offset: -2px;}
 .HL-green-2{outline:2px solid #00ff00;outline-offset: -2px;}
 .HL-blue-2{outline:2px solid #0000ff;outline-offset: -2px;}
@@ -43,6 +45,7 @@
 .HL-purple-2{outline:2px solid #8f0afc;outline-offset: -2px;}
 .HL-orange-2{outline:2px solid #fc970a;outline-offset: -2px;}
 
+.HL-none-bg{background:inherit;}
 .HL-red-bg{background:#ff0000;}
 .HL-green-bg{background:#00ff00;}
 .HL-blue-bg{background:#0000ff;}
